@@ -30,7 +30,6 @@ Feel free to reach out or explore my work:
 - **Email:** anujchouhan112@gmail.com  
 - **Portfolio:** [View my work](https://encouraging-deer-41e.notion.site/Anuj-Chouhan-Game-Developer-13ff4e9ef725806caecbdbbe532efe53)  
 - **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/anuj-chouhan)  
-- **Instagram:** [My Instagram](https://www.instagram.com/anuj_chouhan22/)  
 
 ---
 
