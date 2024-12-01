@@ -6,7 +6,7 @@ Welcome to my GitHub! 🚀 Here, you’ll find projects showcasing my expertise 
 ---
 
 ## 🌟 **About Me**  
-I'm an intermediate-level game developer passionate about creating immersive experiences. With over two years of advanced Unity development, I specialize in crafting optimized, high-quality games and apps. Alongside my game development expertise, I also possess strong 3D skills, including modeling, UV editing, texturing, and animation using industry-standard tools like Autodesk Maya and Substance Painter.  
+I'm an intermediate-level game developer passionate about creating immersive experiences. With over two years of Unity development, I specialize in crafting optimized, high-quality games and apps. Alongside my game development expertise, I also possess strong 3D skills, including modeling, UV editing, texturing, and animation using industry-standard tools like Autodesk Maya and Substance Painter.  
 
 ---
 
